@@ -1,0 +1,20 @@
+# tensorflow
+# numpy
+# tqdm
+# streamlit
+# pandas
+# Pillow
+# scikit-learn
+# opencv-python
+
+streamlit
+tensorflow
+pillow
+numpy
+scikit-learn
+opencv-python
+gradio
+requests
+PyJWT
+tqdm
+

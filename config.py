@@ -2,9 +2,9 @@ import requests
 import json
 
 # Your API key and Custom Search Engine ID
-API_KEY = "AA"
-CSE_ID = "BB"
-EBAY_APP_ID = "CC"
+API_KEY = "AIzaSyCcSn82SDRGy-3dHncyL7S-DSTCLoToFeA"
+CSE_ID = "0519af96f83544ad8"
+EBAY_APP_ID = "SyedaNid-fashionR-SBX-e74d285b5-8aec1e02"
 
 def search_products(query):
     url = f"https://www.googleapis.com/customsearch/v1?q={query}&key={API_KEY}&cx={CSE_ID}"
